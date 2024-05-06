@@ -1,4 +1,0 @@
-- Prison Database (Group Project) - [link](Prison-Database/V4)
-- Discord Bot
-- Rock Paper Scissors
-- Simple Calculator 
