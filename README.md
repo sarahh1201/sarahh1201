@@ -8,8 +8,8 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahh1201&theme=vue&hide_border=true" alt="sarahh1201's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sarahh1201&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="sarahh1201's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarahh1201&theme=vue&hide_border=true" alt="sarahh1201's GitHub Stats" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sarahh1201&theme=vue&show_icons=true&hide_border=true&count_private=true" alt="sarahh1201's GitHub Stats" width="400px"/>
 </p>
 
 <p align="center">
