@@ -2,8 +2,7 @@
 
 - 🌱 Hi, I’m @sarahh1201
 - 🌱 I’m studying to become a software engineer!
-- 🌱 I want to find projects and tips to put towards my career!
-- 🌱 And I'm currently learning C++
+- 🌱 I love cats & plants <3
 
 <hr>
 
