@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🌷 <a href="https://sarahh1201.github.io/portfolio/">portfolio</a> • 🌹 <a href="https://gitlab.com/sarahh1201">gitlab</a>
+  🍀 <a href="https://sarahh1201.github.io/portfolio/">portfolio</a> • ☘️ <a href="https://gitlab.com/sarahh1201">gitlab</a>
 </p>
 
 <hr>
@@ -20,5 +20,5 @@
 <hr>
 
 <p align="center">
-  <i>still learning, still building, still figuring things out 🌸</i>
+  <i>still learning, still building, still figuring things out 🪴</i>
 </p>
